@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins' sans-serif;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.items{
+    display: flex;
+ list-style-type: none;
+ gap: 100px  100px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    color: red;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
